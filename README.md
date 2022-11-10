@@ -1,0 +1,2 @@
+# china_phone_geo_mysql
+中国大陆手机号归属地mysql库
